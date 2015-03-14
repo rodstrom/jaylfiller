@@ -1,0 +1,20 @@
+Entity	position
+> Solid	sprite
+> > Weapon	damage, ammo
+> > Alive	speed, hp, direction, armour,
+> > > Player	input()
+> > > Enemy	ai()
+
+> Sound	loop, file
+InputSystem
+DrawSystem
+CollisionSystem
+
+
+
+
+
+
+
+
+
